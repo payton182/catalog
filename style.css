@@ -38,3 +38,11 @@ body {
 .some-margin {
     margin: 25px;
 }
+
+.more-icons {
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 90px;
+    width: auto;
+}
